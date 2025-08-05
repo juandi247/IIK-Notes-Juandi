@@ -121,7 +121,7 @@ ich schneide schlect ab, abscheinden -> gutt gemacht
 
 hervorheben -> resaltar, ich hebe den Text hervor
 
-                ich habe den Text hervorgehoben
+ich habe den Text hervorgehoben
 den Kopf überfordern
 
 
@@ -137,3 +137,6 @@ ubutunseite 70  1 und 2a
 aufschieben -> procrastinar, dejar algo para despues
 
 hervorhebene information -> resaltado, hebe das hervor, 
+
+
+abhaken -> checkear,marcar, marcar el check
