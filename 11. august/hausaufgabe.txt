@@ -39,8 +39,8 @@ Formen Sie die Sätze mit weil / deshalb / wegen um
 
     Ich lerne mit einer App weil ich wenig Zeit für einen Sprachkurs habe
     Ich habe wenig Zeit für einen Sprachkurs deswegen / deshalb lerne ich mit einer App
-    Wegen weniger Zeit für einen Sprachkurs lerne ich mit einer App
-
+    Wegen des Zeitsmangel für einen Sprachkurs lerne ich mit einer App
+                                                                                        (Der Zeitsmangel)
 
     Die Schüler haben die Prüfung nicht bestanden weil die war sehr schwierig
     Die Prüfung war sehr schwierig, deswegen / deshalb haben die Schüler sie nicht bestanden
@@ -63,7 +63,7 @@ Formen Sie die Sätze mit weil / deshalb / wegen um
     Obwohl Die Grammatik schwierig ist , macht ihm der Unterricht großen Spaß
     Die Grammatik ist schwierig, trotzdem macht ihm der Unterricht großen Spaß
     Die Gramatik ist zwar schwierig, aber der Unterricht macht ihm großen Spaß
-    Trotz der schwierigen Gramatik macht der Unterricht ihm großen Spass
+    Trotz der schwierigen Gramatik macht der Unterricht großen Spass
 
     Obwohl ich sehr müde war, habe ich bis 2 uhr morgen gelernt.
     Ich war sehr müde, troztdem habe ich bis 2 uhr morgen gelernt.
@@ -73,7 +73,8 @@ Formen Sie die Sätze mit weil / deshalb / wegen um
     Obwohl wir die Prüfung nicht bestanden haben, machen wir eine große Party
     Wir haben die Prüfung nicht bestanden, troztdem machen wir eine große Party
     Wir haben zwar die Prüfung nicht bestanden, aber wir machen eine große Party
-    Trotz unseres Durchfallens der Prüfung machen wir eine große Party / Trotz unseres Nichtbestehens der Prüfung
+    Trotz der nicht bestanden Prüfung machen wir eine große Party
+    
 
     Obwohl sie schon 4 Sprachen spricht, will sie noch 2 neue lernen
     Sie spricht schon 4 Sprachen, trotzdem will sie noch zwei neue Sprachen Lernen
