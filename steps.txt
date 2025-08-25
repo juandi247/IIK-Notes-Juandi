@@ -1,15 +1,20 @@
 - (X)enviar correo a la profe
 -(X) Hacer Konsekutiv 
 - (X) Hacer Freizeitbericht
--Hacer audio tambien
--EStudiar infolge, folglich, sodass, infolgdessen
+-(x)Hacer audio tambien
 
 
-- Hacer Almuerzo
-- Guardar dinero en commerzbank
-- Ir por las cosas para comprar al arcade o a algun supermercado
+- (x)Hacer Almuerzo
+-(x) Guardar dinero en commerzbank
+- (x)Ir por las cosas para comprar al arcade o a algun supermercado
 - Echar a lavar la ropa
 
 
-- Estudiar para lo del sprechen - practica
-- Leetcode si alcanzo
+
+
+Noch nicht Fertig
+    - EStudiar infolge, folglich, sodass, infolgdessen
+    - Estudiar para lo del sprechen - practica
+    - Leetcode si alcanzo
+
+
