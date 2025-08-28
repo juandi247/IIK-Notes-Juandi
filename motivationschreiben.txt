@@ -1,0 +1,86 @@
+[Ciudad], [Fecha]
+
+Estimado equipo de reclutamiento,
+
+Me interesa mucho la posición de [Nombre del Puesto] en [Nombre de la Empresa], ya que combina mi pasión por el desarrollo 
+de software con mi interés en trabajar en proyectos de alto impacto dentro del área de sistemas distribuidos y procesamiento de datos.
+Actualmente me encuentro en Alemania como estudiante de intercambio en la Technische Universität Dresden para el wintersemester 2025, gracias a la beca DAAD-KOSPIE,
+y curso el último semestre de mi carrera en Ingeniería de Sistemas en la Universidad Autónoma de Bucaramanga.
+
+
+
+Durante mi última experiencia profesional en Roga AI tuve la oportunidad de colaborar con un equipo internacional en el desarrollo integral de un sistema que abarcaba desde
+la infraestructura en la nube hasta la aplicación móvil y el firmware embebido de un dispositivo médico. Este trabajo me permitió profundizar en el diseño de arquitecturas 
+distribuidas, la programación de bajo nivel en C para entornos críticos y la construcción de servicios escalables en la nube utilizando tecnologías modernas como Quarkus, 
+gRPC y Terraform.
+
+Por otro lado, en mi tiempo personal he desarrollado proyectos y realizado contribuciones técnicas que reflejan mi interés por los fundamentos de la computación y los sistemas 
+de gran escala. Entre ellos destaca Skipper, un reverse proxy y solución de tunelado que diseñé desde cero en Go, evitando abstracciones comunes y trabajando directamente con 
+conceptos de bajo nivel como protocolos binarios propios, multiplexing y TCP framing. Esta experiencia me permitió explorar de manera práctica cómo optimizar la comunicación entre 
+sistemas distribuidos y 
+reforzar mi enfoque en el desarrollo de software de alto rendimiento.
+
+
+Me motiva especialmente la oportunidad de unirme a [Nombre de la Empresa] porque representa una compañía pionera en plataformas de datos en la nube.  
+A futuro, mi principal objetivo profesional es profundizar en el desarrollo de sistemas distribuidos, programación de bajo nivel y soluciones capaces de operar 
+a gran escala con altos requerimientos de rendimiento y confiabilidad. Me interesa enfrentarme a desafíos técnicos complejos y construir herramientas que puedan sostener
+ infraestructuras críticas y millones de usuarios.  
+
+En este sentido, considero que la visión de [Nombre de la Empresa] de hacer accesible y escalable el uso de datos a nivel global se alinea plenamente con mi 
+trayectoria e intereses.Estoy entusiasmado por la posibilidad de aportar mis habilidades técnicas y mi capacidad de aprendizaje rápido en un entorno internacional,
+altamente dinámico y enfocado en la innovación tecnológica.  
+
+
+
+
+Domino las herramientas mencionadas en mi currículum y poseo un nivel C1 certificado en inglés y B2 en alemán. Estoy convencido de que mi 
+perfil puede aportar valor al equipo y, al mismo tiempo, esta experiencia sería una oportunidad única para mi crecimiento profesional y personal.  
+Agradezco su tiempo y consideración, y espero poder conversar con ustedes en una entrevista.
+
+Atentamente,  
+Juan Diego Díaz  
+juand.diaza@gmail.com  
++57 3014444608  
+
+
+
+
+
+
+
+mañana:
+* (X) PAgar airbnb
+* (X) ENVIAR correo al IIK (extender hasta el 30, y preguntar que a que horas debo salir, o como es el proceso de salida, etc, proque ese dia debo salir temprano)
+* (X) Organizar itinerario para mañana y fin de semana
+* (-)Hacer Maleta
+* (X) Comprar entradas para el louvre  
+* Terminar cv y hija de motivación
+* Comprar entrada para tour del PSGGGG!!!
+* (X)ENviar documentos de dresden!!!!!! - FALTA EL DE KRANEKNVERSICHERUNGG!!
+
+
+
+-Alistar-
+
+Bateria Portatil
+Cargador del celular
+Cargador de la bateria portatil
+Ropa para llevar:
+    - Buzo o saco
+    - Jort?
+    - 3 Calzoncillos
+    - 2 o 3 Camisas
+    - Solo 1 Pantalon
+    - 2 Pares de mendias
+
+Pasaporte
+Documentos de Alemania
+
+
+
+90 Ticketes
+25 Estadia
+30 Transporte
+25 PSG
+
+1
