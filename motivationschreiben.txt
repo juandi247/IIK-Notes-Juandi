@@ -9,17 +9,12 @@ y curso el último semestre de mi carrera en Ingeniería de Sistemas en la Unive
 
 
 
-Durante mi última experiencia profesional en Roga AI tuve la oportunidad de colaborar con un equipo internacional en el desarrollo integral de un sistema que abarcaba desde
-la infraestructura en la nube hasta la aplicación móvil y el firmware embebido de un dispositivo médico. Este trabajo me permitió profundizar en el diseño de arquitecturas 
-distribuidas, la programación de bajo nivel en C para entornos críticos y la construcción de servicios escalables en la nube utilizando tecnologías modernas como Quarkus, 
-gRPC y Terraform.
+En mi última experiencia profesional en Roga AI trabajé en un entorno internacional y multidisciplinar, colaborando estrechamente con colegas de diferentes áreas en el desarrollo de un sistema completo que abarcaba infraestructura en la nube, aplicación móvil y firmware embebido para un dispositivo médico. Este rol me permitió profundizar en arquitecturas distribuidas, programación de bajo nivel en C y el desarrollo de servicios escalables usando tecnologías como Quarkus, gRPC y Terraform, al mismo tiempo que reforzaba mis habilidades de comunicación, coordinación y trabajo en equipo en proyectos complejos.
 
-Por otro lado, en mi tiempo personal he desarrollado proyectos y realizado contribuciones técnicas que reflejan mi interés por los fundamentos de la computación y los sistemas 
-de gran escala. Entre ellos destaca Skipper, un reverse proxy y solución de tunelado que diseñé desde cero en Go, evitando abstracciones comunes y trabajando directamente con 
-conceptos de bajo nivel como protocolos binarios propios, multiplexing y TCP framing. Esta experiencia me permitió explorar de manera práctica cómo optimizar la comunicación entre 
-sistemas distribuidos y 
-reforzar mi enfoque en el desarrollo de software de alto rendimiento.
-
+Por otro lado, en mis proyectos personales he explorado conceptos más cercanos al LowLevel,sistemas distribuidos, 
+tambien desarrollo web (especialmetne backend). A travesSkipper, un reverse proxy y solución de túnel que construí desde cero en Go,
+ implementando mi propio protocolo binario, multiplexing y TCP framing. Esta experiencia me permitió experimentar con optimización de comunicación entre sistemas
+ y software de alto rendimiento, consolidando mi interés en sistemas de gran escala.
 
 Me motiva especialmente la oportunidad de unirme a [Nombre de la Empresa] porque representa una compañía pionera en plataformas de datos en la nube.  
 A futuro, mi principal objetivo profesional es profundizar en el desarrollo de sistemas distribuidos, programación de bajo nivel y soluciones capaces de operar 
@@ -84,3 +79,7 @@ Documentos de Alemania
 25 PSG
 
 1
+
+
+
+ich lerne detusch, weil ich die C1 oder C2 Stufe erreichenw Intelligenz
