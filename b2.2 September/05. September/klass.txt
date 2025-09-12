@@ -9,6 +9,7 @@ herbeibringen != beibringen -> NO SON LO MISMO
 herbei-> traer algo aca 
 beibringen-> de enseñar
 
+Tischler, Schreiner -> caprintero
 
 
 vorantreiben -> avanzaR???
@@ -147,3 +148,16 @@ Ein berater von RESET
 sie hat endetckt, dass das best eoption ein duaen studieum war. 
 
 
+
+
+
+
+
+1.. zum normalen Alltag
+2. Zur realität
+3. mit einem klaren JA
+4.mithilfe der Computer tehcnik
+5.in rasantem tempo
+6.mit einem Computert
+7.
+8.auf Anweisungen
